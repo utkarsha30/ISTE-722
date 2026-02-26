@@ -1,3 +1,4 @@
+#Lab 5 - Read Serial Data
 import serial
 
 #windows - make sure matches the com port in the Arduino IDE
